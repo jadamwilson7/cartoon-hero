@@ -1,0 +1,29 @@
+body{
+	background-color: #FDF6ED;
+	margin: 0;
+	font-family: Avenir, sans-serif;
+	font-size: 20px;
+}
+
+header{
+	padding-top: 150px;
+	padding-bottom: 150px;
+	text-align: center;
+}
+
+header h1{
+	font-family: Georgia, serif;
+	font-size: 30px;
+	color: #202A44;
+	line-height: 35pt;
+}
+
+header button{
+	background-color: #202A44;
+	font-size: 16px;
+	font-family: Galano;
+	text-transform: uppercase;
+	color: #FDF6ED;
+	width: 200px;
+	height: 40px;
+}
